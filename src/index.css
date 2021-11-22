@@ -1,0 +1,22 @@
+body {
+  margin: 0;
+  font-family: sans-serif;
+  text-align: center;
+}
+
+table {
+  width: 75vw !important;
+  border-collapse: collapse;
+  margin: auto;
+}
+
+td, th {
+  border: 1px solid #eee;
+  min-width: 10px !important;
+  max-width: 100px !important;
+  padding: 2px 4px;
+}
+
+h2 {
+  color: blue;
+}
